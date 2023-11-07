@@ -21,7 +21,9 @@ Als ik naar vacatures kijk ben ik ook zeer tevreden omdat ik zie dat er veel pot
 Mijn belangrijkste leermomenten van werkplekleren 1 waren:
 
 Ik heb persoonlijk veel geleerd van de gastspreker op het gastseminarie.
+
 De planning opdracht heeft mij geholpen door te zien dat er toch meer gedaan kan worden in een dag dan je denkt.
+
 Test talstelsel omdat ik lang geen wiskunde heb moeten studeren als VDAB student vond ik het dan toch wel leerrijk om dat nog eens te doen.
 
 Dit zijn mijn sterke punten:
@@ -29,16 +31,20 @@ Dit zijn mijn sterke punten:
 Technische skills:
 
 Programmeren en ik heb dit gemerkt in de Command Line Interface van zowel Linux als Windows wanneer ik linken kan leggen door mijn eerdere ervaring en dingen beter kan begrijpen.
+
 Powerpoint en dit is mij opgevallen bij het vak Communication Skills waar ik veel voorkennis in had en daardoor ging mijn presentatie veel beter.
 
 Soft skills:
 
 Communicatie en ik heb dit gebruikt door goed samen te werken in groepsopdrachten.
+
 Tijdmanagement en dit heb ik gemerkt door betere voorbereidingen te doen.
 
 
 Ontwikkelpunten waar ik beter in hoop te worden:
+
 Stressbestendig en dan vooral bij testen waar ik soms meer stress ervaar dan nodig is door mezelf druk op te leggen.
+
 Het vak Networks, ik probeer mijn best hiervoor te doen maar merk dat ik er meer moeite mee heb dan andere vakken.
 
 
