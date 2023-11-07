@@ -2,7 +2,9 @@
 
 ## Reflectie WPL 1
 in WPL1 heb ik twee reflectie's gemaakt:
+
 [Minnen_Arne_reflectie.pdf](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-ArneMinnenPXL/files/13259556/Minnen_Arne_reflectie.pdf)
+
 Mijn eerste reflectie ging over mijn job bij Toyota als orderpicker waar ik soms last had van mensen die hun werk niet grondig deden en er voor zorgde dat andere mensen minder efficient werkten.
 Hier had ik het moeilijk mee omdat ik bepaalde doelstellingen niet kon halen en ik heb dit dan tegen hen gezegd maar ik had het beter kunnen verwoorden. Hierdoor waren zij ook niet blij, dit had ik beter kunnen aanpakken.
 
