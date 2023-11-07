@@ -12,7 +12,7 @@ e-mail: arne.minnen@student.pxl.be
 
 diploma: diploma secundaire onderwijs
 
-certificaten: ICT en programmeren bij CVO volt.
+certificaten: ICT en programmeren bij CVO volt
 
 werkervaring: orderpicking bij Toyota Diest, keukenhulp bij Ezeldijk Diest
 
