@@ -5,6 +5,7 @@ Ik zal het vooral gebruiken in mijn studie om te reflecteren op mijn opdrachten 
 
 # persoonlijke info
 naam: Arne Minnen
+
 geboortedatum: 18 juli 2000
 e-mail: arne.minnen@student.pxl.be
 diploma: diploma secundaire onderwijs
