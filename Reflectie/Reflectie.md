@@ -8,7 +8,7 @@ Hier had ik het moeilijk mee omdat ik bepaalde doelstellingen niet kon halen en 
 
 Mijn tweede reflectie ging over mijn telefoon naar PXL, nadat er niemand mij kon helpen en de doorverwezen persoon afwezig was begon ik mij er in te ergeren omdat ik het belangrijk vond dat mijn inschrijving in orde is. Hierdoor ervaarde ik veel stress en was ik geergerd aan de telefoon.
 
-Ik ben vooral trots op het resultaat van mijn reflectie opdracht omdat ik dit toch moeilijk vind maar het is goed gelukt omdat ik mijn best heb gedaan.
+Ik ben vooral trots op het resultaat van mijn reflectie opdracht omdat ik dit eerst toch heel moeilijk vond maar na de juiste methode te volgen ging dit veel gemakkelijker.
 
 Slotevaluatie:
 Mijn job omvat werken als systeem en netwerkbeheerder dit betekent dat ik Netwerken/systemen ga installeren, bewerken vervangen etc...
