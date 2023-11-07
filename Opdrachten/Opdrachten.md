@@ -10,7 +10,7 @@ Communicatie en ik heb dit gebruikt door goed samen te werken in groepsopdrachte
 Mijn favoriete opdrachten:
 
 [Minnen_Arne_mijn_loopbaan.pdf](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-ArneMinnenPXL/files/13259331/Minnen_Arne_mijn_loopbaan.pdf)
-Ik heb deze gekozen omdat als ik deze opdracht maak. Ik kan zien wat de job allemaal inhoudt en wat de voor en nadelen zijn en dat is toch heel belangrijk.
+Ik heb deze gekozen omdat als ik deze opdracht maak, ik kan zien wat de job allemaal inhoudt en wat de voor en nadelen zijn en dat is toch heel belangrijk.
 
 [Minnen_Arne_reflectie (1).pdf](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-ArneMinnenPXL/files/13259332/Minnen_Arne_reflectie.1.pdf)
 Deze heb ik gekozen omdat ik hieruit het meeste geleerd heb over hoe je soms bepaalde situaties beter kan aanpakken.
