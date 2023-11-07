@@ -13,6 +13,7 @@ Mijn tweede reflectie ging over mijn telefoon naar PXL, nadat er niemand mij kon
 Ik ben vooral trots op het resultaat van mijn reflectie opdracht omdat ik dit eerst toch heel moeilijk vond maar na de juiste methode te volgen ging dit veel gemakkelijker.
 
 Slotevaluatie:
+
 Mijn job omvat werken als systeem en netwerkbeheerder dit betekent dat ik Netwerken/systemen ga installeren, bewerken vervangen etc...
 Ik zou graag nog een gastseminarie willen omdat ze leerrijk zijn en het altijd anders is om iemand te zien die in de praktijk dit doet in vergelijking met leerkrachten.
 WPL heeft mij het inzicht gegeven dat planning en reflecteren vaak onbelangrijk lijkt maar het kan heel veel doen.
