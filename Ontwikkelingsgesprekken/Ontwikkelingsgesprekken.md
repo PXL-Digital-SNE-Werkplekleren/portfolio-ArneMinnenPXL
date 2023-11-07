@@ -18,6 +18,7 @@ Na het gastseminarie was het voor mij ook wel extra duidelijk dat het heel belan
 De opdrachten die we gekregen hebben waren ook heel hulpzaam, de planning en reflectie heeft mij al voorruit geholpen om te reflecteren en mij beter voor te bereiden voor de les.
 Als ik naar vacatures kijk ben ik ook zeer tevreden omdat ik zie dat er veel potentieel is en ook doorgroeimogelijkheden zijn en veel legale voordelen.
 
+
 Mijn belangrijkste leermomenten van werkplekleren 1 waren:
 
 Ik heb persoonlijk veel geleerd van de gastspreker op het gastseminarie.
@@ -26,7 +27,9 @@ De planning opdracht heeft mij geholpen door te zien dat er toch meer gedaan kan
 
 Test talstelsel omdat ik lang geen wiskunde heb moeten studeren als VDAB student vond ik het dan toch wel leerrijk om dat nog eens te doen.
 
+
 Dit zijn mijn sterke punten:
+
 
 Technische skills:
 
@@ -34,11 +37,13 @@ Programmeren en ik heb dit gemerkt in de Command Line Interface van zowel Linux 
 
 Powerpoint en dit is mij opgevallen bij het vak Communication Skills waar ik veel voorkennis in had en daardoor ging mijn presentatie veel beter.
 
+
 Soft skills:
 
 Communicatie en ik heb dit gebruikt door goed samen te werken in groepsopdrachten.
 
 Tijdmanagement en dit heb ik gemerkt door betere voorbereidingen te doen.
+
 
 
 Ontwikkelpunten waar ik beter in hoop te worden:
