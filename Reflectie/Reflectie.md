@@ -19,6 +19,19 @@ Ik zou graag nog een gastseminarie willen omdat ze leerrijk zijn en het altijd a
 WPL heeft mij het inzicht gegeven dat planning en reflecteren vaak onbelangrijk lijkt maar het kan heel veel doen.
 Ik hoop dat ik in WPL2 meer leer over wat mijn job concreet inhoudt en hoe ik de beste werknemer kan zijn.
 
+
+Reflectie gastseminairie Carglass:
+We kregen een gastspreker die werkte voor carglass als het hoofd van de service desk.
+Hij heeft ons laten zien hoe zei 300 achter stond op hun target toen hij de nieuwe functie kreeg en hoe hij dit verholpen heeft.
+Een deel was gewoon slechte administratie waardoor al bleek dat 50 wel in orde waren.
+Voor de rest heeft hij zijn team betere planning laten uitvoeren en betere klanten service aan laten bieden.
+Hierdoor staan ze nu nog maar 50 achter en dit is een haalbaar doel om bij te halen en dit doet veel psychologisch.
+Ik heb er persoonlijk door geleerd dat hard werken en een goede planning je heel ver brengen in het bedrijfsleven.
+Het is zeker ook niet makkelijk om een team te leiden en ik denk dat iedereen met een leidende functie zeker het extra loon verdient.
+
+
+
+
 ## Reflectie WPL 2
 
 ## Reflectie WPL 3
