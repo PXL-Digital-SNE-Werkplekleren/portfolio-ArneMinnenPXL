@@ -5,6 +5,12 @@ Reflectieopdracht - 2 reflectie's uitvoeren: 1 volgens cyclisch reflectiemodel v
 
 Opdracht planning - planning over 2 weken tijd maken.
 
+Opdracht actualiteit - Groepswerk waarbij we keken naar welke impact AI kan hebben op ons beroep en de IT sector in het algemeen.
+
+Opdracht netwerken - Een simpele switch config maken zoals we geleerd hebben bij netwerken.
+
+Opdracht Power app ORL - een app maken waarin je bepaalde dingen kan selecteren, wijzigen etc...
+
 Carriere kompas - Zoeken naar je talenten en vacatures bekijken die mij interesseren.
 Ik vond de reflectieopdracht de beste omdat het toch wel moeilijk is om op jezelf te reflecteren maar hier leer je wel het meeste uit.
 Communicatie en ik heb dit gebruikt door goed samen te werken in groepsopdrachten.
