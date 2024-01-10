@@ -3,7 +3,7 @@
 ## Opdrachten WPL 1
 Reflectieopdracht - 2 reflectie's uitvoeren: 1 volgens cyclisch reflectiemodel van kolb en een volgens de Starr methode.
 
-Opdracht planning - planning over 2 weken tijd maken.
+Opdracht planning - planning over 2 weken tijd maken. 
 
 Opdracht actualiteit - Groepswerk waarbij we keken naar welke impact AI kan hebben op ons beroep en de IT sector in het algemeen.
 
