@@ -14,6 +14,8 @@ Opdracht Power app ORL - een app maken waarin je bepaalde dingen kan selecteren,
 
 
 Carriere kompas - Zoeken naar je talenten en vacatures bekijken die mij interesseren.
+[Minnen_Arne_mijn_loopbaan (3).pdf](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-ArneMinnenPXL/files/13886186/Minnen_Arne_mijn_loopbaan.3.pdf)
+
 Ik vond de reflectieopdracht de beste omdat het toch wel moeilijk is om op jezelf te reflecteren maar hier leer je wel het meeste uit.
 Communicatie en ik heb dit gebruikt door goed samen te werken in groepsopdrachten.
 
@@ -27,5 +29,6 @@ Deze heb ik gekozen omdat ik hieruit het meeste geleerd heb over hoe je soms bep
 ## Opdrachten WPL 2
 
 ## Opdrachten WPL 3
+
 
 ## Opdrachten WPL 4
