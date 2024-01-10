@@ -9,6 +9,7 @@ Opdracht actualiteit - Groepswerk waarbij we keken naar welke impact AI kan hebb
 
 Opdracht netwerken - Een simpele switch config maken zoals we geleerd hebben bij netwerken.
 
+
 Opdracht Power app ORL - een app maken waarin je bepaalde dingen kan selecteren, wijzigen etc...
 [Minnen_Arne_Powerapp.pdf](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-ArneMinnenPXL/files/13886135/Minnen_Arne_Powerapp.pdf)
 
