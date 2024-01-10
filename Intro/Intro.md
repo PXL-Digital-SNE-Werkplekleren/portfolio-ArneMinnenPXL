@@ -19,3 +19,9 @@ werkervaring: orderpicking bij Toyota Diest, keukenhulp bij Ezeldijk Diest
 vrijwilligerswerk: geen ervaring
 
 hobby: Kickboksen, met de hond wandelen, gamen
+
+
+CV
+
+
+[CV20232.pdf](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-ArneMinnenPXL/files/13886577/CV20232.pdf)
