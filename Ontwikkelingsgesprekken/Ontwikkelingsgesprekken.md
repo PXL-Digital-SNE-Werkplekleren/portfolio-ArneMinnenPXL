@@ -47,12 +47,14 @@ Tijdmanagement en dit heb ik gemerkt door betere voorbereidingen te doen.
 
 
 Ontwikkelpunten waar ik beter in hoop te worden:
-![image](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-ArneMinnenPXL/assets/148560595/376de382-6a91-4567-8774-65869211c55d)
 
 
 Stressbestendig en dan vooral bij testen waar ik soms meer stress ervaar dan nodig is door mezelf druk op te leggen.
 
 Het vak Networks, ik probeer mijn best hiervoor te doen maar merk dat ik er meer moeite mee heb dan andere vakken.
+
+
+![image](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-ArneMinnenPXL/assets/148560595/376de382-6a91-4567-8774-65869211c55d)
 
 
 
