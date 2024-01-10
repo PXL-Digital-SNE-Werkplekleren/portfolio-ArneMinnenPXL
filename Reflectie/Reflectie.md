@@ -46,6 +46,13 @@ Mijn carriere begint ook nu en niet als ik afstudeer dus hier ga ik aan denken e
 Zeker ook mijn stages kan ik gebruiken door deze heel goed uit te voeren en dan in mijn CV te zetten.
 
 
+Reflectie X-factor
+
+Wat is X-factor?
+
+
+
+
 
 ## Reflectie WPL 2
 
