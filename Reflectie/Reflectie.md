@@ -30,6 +30,19 @@ Ik heb er persoonlijk door geleerd dat hard werken en een goede planning je heel
 Het is zeker ook niet makkelijk om een team te leiden en ik denk dat iedereen met een leidende functie zeker het extra loon verdient.
 
 
+Reflectie gastseminairie expose:
+Deze gastspreker was net als ons gestart met de opleiding Systeem en netwerkbeheer op PXL Hasselt.
+Hij vertelde ons dat hij zich daarna is gaan verdiepen in cybersecurity. Hierna is hij zelfstandig begonnen en door extra certificaten te behalen was dit erg goed gelukt! Maar door belangstingen etc.. heeft hij besloten om een bedrijf/onderneming op te starten.
+Ik vind dit zeer leerrijk en het laat ook zien dat als je je best doet je altijd een weg kan vinden.
+
+
+Reflectie gastseminairie Vibe groep:
+
+Het was erg interessant voor mij en ook een vrij nieuw onderwerp.
+Ik zie zeker het nut van een recruiter in en hoop dat ik er later ook gebruik van kan maken als ik een job zoek.
+Mijn carriere begint ook nu en niet als ik afstudeer dus hier ga ik aan denken en me beter voor te bereiden op de toekomst.
+Zeker ook mijn stages kan ik gebruiken door deze heel goed uit te voeren en dan in mijn CV te zetten.
+
 
 
 ## Reflectie WPL 2
