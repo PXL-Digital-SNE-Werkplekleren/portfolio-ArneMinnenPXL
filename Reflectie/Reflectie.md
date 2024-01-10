@@ -21,6 +21,7 @@ Ik hoop dat ik in WPL2 meer leer over wat mijn job concreet inhoudt en hoe ik de
 
 
 Reflectie gastseminairie Carglass:
+
 We kregen een gastspreker die werkte voor carglass als het hoofd van de service desk.
 Hij heeft ons laten zien hoe zei 300 achter stond op hun target toen hij de nieuwe functie kreeg en hoe hij dit verholpen heeft.
 Een deel was gewoon slechte administratie waardoor al bleek dat 50 wel in orde waren.
@@ -30,7 +31,8 @@ Ik heb er persoonlijk door geleerd dat hard werken en een goede planning je heel
 Het is zeker ook niet makkelijk om een team te leiden en ik denk dat iedereen met een leidende functie zeker het extra loon verdient.
 
 
-Reflectie gastseminairie expose:
+Reflectie gastseminairie Expose:
+
 Deze gastspreker was net als ons gestart met de opleiding Systeem en netwerkbeheer op PXL Hasselt.
 Hij vertelde ons dat hij zich daarna is gaan verdiepen in cybersecurity. Hierna is hij zelfstandig begonnen en door extra certificaten te behalen was dit erg goed gelukt! Maar door belangstingen etc.. heeft hij besloten om een bedrijf/onderneming op te starten.
 Ik vind dit zeer leerrijk en het laat ook zien dat als je je best doet je altijd een weg kan vinden.
