@@ -25,9 +25,9 @@ Als ik naar vacatures kijk ben ik ook zeer tevreden omdat ik zie dat er veel pot
 
 ## Mijn belangrijkste leermomenten van werkplekleren 1:
 
-Ik heb persoonlijk veel geleerd van de gastspreker op het gastseminarie.
+Ik heb persoonlijk veel geleerd door de Carglass gastspreker op het gastseminarie.
 
-De planning opdracht heeft mij geholpen door te zien dat er toch meer gedaan kan worden in een dag dan je denkt.
+De planning opdracht heeft mij geholpen door mij te laten zien dat er toch meer gedaan kan worden in een dag dan ik dacht.
 
 Test talstelsel omdat ik lang geen wiskunde heb moeten studeren als VDAB student vond ik het dan toch wel leerrijk om dat nog eens te doen.
 
