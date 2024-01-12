@@ -51,7 +51,7 @@ Ontwikkelpunten waar ik beter in hoop te worden:
 
 Stressbestendig en dan vooral bij testen waar ik soms meer stress ervaar dan nodig is door mezelf druk op te leggen.
 
-Het vak Networks, ik probeer mijn best hiervoor te doen maar merk dat ik er meer moeite mee heb dan andere vakken.
+De controle loslaten en dit is dan vooral bijvoorbeeld bij een groepswerk waar ik soms de neiging heb om het over te nemen zodat ik het kan doen zoals ik het wil in plaats van met mijn collega's.
 
 
 ![image](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-ArneMinnenPXL/assets/148560595/376de382-6a91-4567-8774-65869211c55d)
