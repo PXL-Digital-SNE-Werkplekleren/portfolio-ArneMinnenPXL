@@ -48,8 +48,6 @@ Zeker ook mijn stages kan ik gebruiken door deze heel goed uit te voeren en dan 
 
 Reflectie X-factor
 
-Wat is X-factor?
-
 
 
 
