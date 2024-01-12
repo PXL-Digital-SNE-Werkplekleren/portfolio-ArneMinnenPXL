@@ -13,7 +13,7 @@ Opdracht netwerken - Een simpele switch config maken zoals we geleerd hebben bij
 
 Opdracht Power app ORL - een app maken waarin je bepaalde dingen kan selecteren, wijzigen etc...
 
-Carriere kompas - Zoeken naar je talenten en vacatures bekijken die mij interesseren.
+Opdracht Carriere kompas - Zoeken naar je talenten en vacatures bekijken die mij interesseren.
 
 
 ## Mijn favoriete opdrachten:
