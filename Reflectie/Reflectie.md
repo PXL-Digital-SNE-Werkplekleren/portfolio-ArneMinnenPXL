@@ -12,7 +12,7 @@ Mijn tweede reflectie ging over mijn telefoon naar PXL, nadat er niemand mij kon
 
 Ik ben vooral trots op het resultaat van mijn reflectie opdracht omdat ik dit eerst toch heel moeilijk vond maar na de juiste methode te volgen ging dit veel gemakkelijker.
 
-Slotevaluatie:
+## Slotevaluatie:
 
 Mijn job omvat werken als systeem en netwerkbeheerder dit betekent dat ik Netwerken/systemen ga installeren, bewerken vervangen etc...
 Ik zou graag nog een gastseminarie willen omdat ze leerrijk zijn en het altijd anders is om iemand te zien die in de praktijk dit doet in vergelijking met leerkrachten.
@@ -20,7 +20,7 @@ WPL heeft mij het inzicht gegeven dat planning en reflecteren vaak onbelangrijk 
 Ik hoop dat ik in WPL2 meer leer over wat mijn job concreet inhoudt en hoe ik de beste werknemer kan zijn.
 
 
-Reflectie gastseminairie Carglass:
+## Reflectie gastseminairie Carglass:
 
 We kregen een gastspreker die werkte voor carglass als het hoofd van de service desk.
 Hij heeft ons laten zien hoe zei 300 achter stond op hun target toen hij de nieuwe functie kreeg en hoe hij dit verholpen heeft.
@@ -31,14 +31,14 @@ Ik heb er persoonlijk door geleerd dat hard werken en een goede planning je heel
 Het is zeker ook niet makkelijk om een team te leiden en ik denk dat iedereen met een leidende functie zeker het extra loon verdient.
 
 
-Reflectie gastseminairie Expose:
+## Reflectie gastseminairie Expose:
 
 Deze gastspreker was net als ons gestart met de opleiding Systeem en netwerkbeheer op PXL Hasselt.
 Hij vertelde ons dat hij zich daarna is gaan verdiepen in cybersecurity. Hierna is hij zelfstandig begonnen en door extra certificaten te behalen was dit erg goed gelukt! Maar door belangstingen etc.. heeft hij besloten om een bedrijf/onderneming op te starten.
 Ik vind dit zeer leerrijk en het laat ook zien dat als je je best doet je altijd een weg kan vinden.
 
 
-Reflectie gastseminairie Vibe groep:
+## Reflectie gastseminairie Vibe groep:
 
 Het was erg interessant voor mij en ook een vrij nieuw onderwerp.
 Ik zie zeker het nut van een recruiter in en hoop dat ik er later ook gebruik van kan maken als ik een job zoek.
@@ -46,7 +46,7 @@ Mijn carriere begint ook nu en niet als ik afstudeer dus hier ga ik aan denken e
 Zeker ook mijn stages kan ik gebruiken door deze heel goed uit te voeren en dan in mijn CV te zetten.
 
 
-Reflectie X-factor
+## Reflectie X-factor
 
 Wat is jouw passie? Hoe houdt dit verband met de opleiding die je bent aangevat? 
 
@@ -60,28 +60,28 @@ Hoe zie je jezelf in dialoog gaan met anderen in de opleiding die je bent aangev
 
 Ik zou altijd proberen respect te tonen naar andere mensen hun mening en het te bespreken.
 
-Wat versta jij onder een ken-doementaliteit (ondernemend zijn in de brede zin van het woord) en hoe zie je dat in de opleiding die je bent aangevat?
+#### Wat versta jij onder een ken-doementaliteit (ondernemend zijn in de brede zin van het woord) en hoe zie je dat in de opleiding die je bent aangevat?
 
 Dat als je enkel kennis van iets hebt maar het niet kan toepassen is dat niet genoeg. Het is bijvoorbeeld niet dat als jij een netwerk moet opstellen dat je dit ook gaat doen. Je moet effectief de stappen nemen om het uit te voeren.
 
 
-Hoe ver sta jij op dit moment al in een ken-doementaliteit?
+#### Hoe ver sta jij op dit moment al in een ken-doementaliteit?
 
 Ik vind het persoonlijk beter om eerst een beperkte theorie te krijgen en zo dan verder te gaan naar leren maar ik ben geen fan van eerst alles leren en dan pas het in de praktijk te gebruiken.
 Dit vind ik zeer onleerrijk.
 
-Hoe ziet jouw netwerk er op dit moment uit? Kan je dit netwerk inzetten in functie van de opleiding die je hebt aangevat?
+#### Hoe ziet jouw netwerk er op dit moment uit? Kan je dit netwerk inzetten in functie van de opleiding die je hebt aangevat?
 
 Ik heb een aantal vrienden die in de IT werken: Programmeur, netwerkbeheerder en dit komt heel goed uit want ik kan altijd naar hun gaan voor advies.
 
 
-Hoe zou jij internationaal samen kunnen werken in de opleiding die je hebt aangevat?
+#### Hoe zou jij internationaal samen kunnen werken in de opleiding die je hebt aangevat?
 
 
 Ik zou dit niet kunnen omdat ik VDAB student ben en wij mogen dit niet.
 
 
-Met welke andere disciplines (opleidingen / beroepen / ...) zou jij in aanraking kunnen komen in je opleiding?
+#### Met welke andere disciplines (opleidingen / beroepen / ...) zou jij in aanraking kunnen komen in je opleiding?
 
 Programmeren,netwerkbeheer,etische hackers,security en helpdesk om er maar een paar te noemen.
 
@@ -90,34 +90,34 @@ Hoe ziet je X-factor er op dit moment al uit? Welke ervaringen heb je al?
 Ik hou van IT en ben hier zelf thuis ook veel mee bezig; zo heb ik al zelf routers geconfigureerd of mijn vrienden geholpen met internet problemen.
 
 
-Hoe zou je je X-factor kunnen vertalen naar de opleiding waarvoor je gekozen hebt?
+#### Hoe zou je je X-factor kunnen vertalen naar de opleiding waarvoor je gekozen hebt?
 
 IT dus dit spreekt voor zich omdat het mijn passie is.
 
-Hoe zou jij je X-factor verder kunnen ontwikkelen?
+#### Hoe zou jij je X-factor verder kunnen ontwikkelen?
 
 Mijn uitstelgedrag is zeker mijn grootste probleem en ik probeer hier aan te werken zeker bij de vakken die je rap laat liggen omdat ze 'minder' belangrijk zijn.
 
-Wat weet je al over de soort van job die je later wil uitoefenen?
+#### Wat weet je al over de soort van job die je later wil uitoefenen?
 
 Op dit moment zou ik erg graag beginnen als Systeem en Netwerkbeheerder, ik vind de richting heel leuk en wou altijd al in de IT werken. Vroeger heb ik ook eens geprobeert om te programmeren maar dit vond ik iets te herhalend.
 
 
-Waarover zou je nog wel een gastseminarie willen tijdens WPL2?
+#### Waarover zou je nog wel een gastseminarie willen tijdens WPL2?
 
 
 Ik zou graag nog gastseminaries krijgen over mensen die ook in de IT werken maar dan voornamelijk andere afdelingen zodat ik daar ook wat meer van leer. (cybersecurity,cloud,etc)
 
 
 
-Welk inzicht heeft WPL1 jou gebracht?
+#### Welk inzicht heeft WPL1 jou gebracht?
 
 
 Het heeft me veel bijgebracht zoals plannen en goed reflectere. Maar ook bij de gastseminarie van carglass vond ik het heel motiveerde om te horen hoe deze persoon grote problemen kon oplossen door zijn best te doen.
 
 
 
-Wat hoop je in WPL2 te leren en ontdekken? Wat zijn je voornemens?
+#### Wat hoop je in WPL2 te leren en ontdekken? Wat zijn je voornemens?
 
 
 Ik hoop meer inzicht te krijgen over hoe het gaat zijn op de werkvloer maar ik ben er zeker van dat dit zal gebeuren op de Corda Campus.
