@@ -50,6 +50,31 @@ Reflectie X-factor
 
 
 
+Wat weet je al over de soort van job die je later wil uitoefenen?
+
+Op dit moment zou ik erg graag beginnen als Systeem en Netwerkbeheerder, ik vind de richting heel leuk en wou altijd al in de IT werken. Vroeger heb ik ook eens geprobeert om te programmeren maar dit vond ik iets te herhalend.
+
+
+Waarover zou je nog wel een gastseminarie willen tijdens WPL2?
+
+
+Ik zou graag nog gastseminaries krijgen over mensen die ook in de IT werken maar dan voornamelijk andere afdelingen zodat ik daar ook wat meer van leer. (cybersecurity,cloud,etc)
+
+
+
+Welk inzicht heeft WPL1 jou gebracht?
+
+
+Het heeft me veel bijgebracht zoals plannen en goed reflectere. Maar ook bij de gastseminarie van carglass vond ik het heel motiveerde om te horen hoe deze persoon grote problemen kon oplossen door zijn best te doen.
+
+
+
+Wat hoop je in WPL2 te leren en ontdekken? Wat zijn je voornemens?
+
+
+Ik hoop meer inzicht te krijgen over hoe het gaat zijn op de werkvloer maar ik ben er zeker van dat dit zal gebeuren op de Corda Campus.
+
+
 
 
 ## Reflectie WPL 2
