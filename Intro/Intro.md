@@ -7,7 +7,7 @@ Doorheen het jaar zal ik mijn portfolio verder kunnen uitwerken met reflectie's 
 
 
 
-![image](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-ArneMinnenPXL/assets/148560595/931d9142-33d0-4fb7-939b-434d126abdbf)
+![image](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-ArneMinnenPXL/assets/148560595/fe4d33d8-f178-49d5-8ca2-1b0ae9944074)
 
 
 
