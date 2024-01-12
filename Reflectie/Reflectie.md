@@ -58,25 +58,45 @@ Ik vind het heel leuk om in een CLI te werken en ik ben zo gefascineerd door Net
 
 Hoe zie je jezelf in dialoog gaan met anderen in de opleiding die je bent aangevat? 
 
-Ik zou altijd proberen respect te tonen naar andere mensen hun mening en het bespreken.
+Ik zou altijd proberen respect te tonen naar andere mensen hun mening en het te bespreken.
 
 Wat versta jij onder een ken-doementaliteit (ondernemend zijn in de brede zin van het woord) en hoe zie je dat in de opleiding die je bent aangevat?
 
+Dat als je enkel kennis van iets hebt maar het niet kan toepassen is dat niet genoeg. Het is bijvoorbeeld niet dat als jij een netwerk moet opstellen dat je dit ook gaat doen. Je moet effectief de stappen nemen om het uit te voeren.
+
+
 Hoe ver sta jij op dit moment al in een ken-doementaliteit?
+
+Ik vind het persoonlijk beter om eerst een beperkte theorie te krijgen en zo dan verder te gaan naar leren maar ik ben geen fan van eerst alles leren en dan pas het in de praktijk te gebruiken.
+Dit vind ik zeer onleerrijk.
 
 Hoe ziet jouw netwerk er op dit moment uit? Kan je dit netwerk inzetten in functie van de opleiding die je hebt aangevat?
 
+Ik heb een aantal vrienden die in de IT werken: Programmeur, netwerkbeheerder en dit komt heel goed uit want ik kan altijd naar hun gaan voor advies.
+
+
 Hoe zou jij internationaal samen kunnen werken in de opleiding die je hebt aangevat?
+
+
+Ik zou dit niet kunnen omdat ik VDAB student ben en wij mogen dit niet.
+
+
 Met welke andere disciplines (opleidingen / beroepen / ...) zou jij in aanraking kunnen komen in je opleiding?
 
+Programmeren,netwerkbeheer,etische hackers,security en helpdesk om er maar een paar te noemen.
+
 Hoe ziet je X-factor er op dit moment al uit? Welke ervaringen heb je al?
+
+Ik hou van IT en ben hier zelf thuis ook veel mee bezig; zo heb ik al zelf routers geconfigureerd of mijn vrienden geholpen met internet problemen.
 
 
 Hoe zou je je X-factor kunnen vertalen naar de opleiding waarvoor je gekozen hebt?
 
+IT dus dit spreekt voor zich omdat het mijn passie is.
 
 Hoe zou jij je X-factor verder kunnen ontwikkelen?
 
+Mijn uitstelgedrag is zeker mijn grootste probleem en ik probeer hier aan te werken zeker bij de vakken die je rap laat liggen omdat ze 'minder' belangrijk zijn.
 
 Wat weet je al over de soort van job die je later wil uitoefenen?
 
