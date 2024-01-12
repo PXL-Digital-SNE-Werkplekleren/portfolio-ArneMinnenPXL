@@ -4,26 +4,10 @@ Ik zal het vooral gebruiken in mijn studie om te reflecteren op mijn opdrachten 
 Doorheen het jaar zal ik mijn portfolio verder kunnen uitwerken met reflectie's en leerrijke taken en kan ik er een eigen waardering aan koppelen.
 
 
-# persoonlijke info
-naam: Arne Minnen
-
-geboortedatum: 18 juli 2000
-
-e-mail: arne.minnen@student.pxl.be
-
-diploma: diploma secundaire onderwijs
-
-certificaten: ICT en programmeren bij CVO volt
-
-werkervaring: orderpicking bij Toyota Diest, keukenhulp bij Ezeldijk Diest
-
-vrijwilligerswerk: geen ervaring
-
-hobby: Kickboksen, met de hond wandelen, gamen
 
 
 
-![image](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-ArneMinnenPXL/assets/148560595/69bf2072-050a-4749-86dd-514b567cc646)
+![image](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-ArneMinnenPXL/assets/148560595/931d9142-33d0-4fb7-939b-434d126abdbf)
 
 
 
