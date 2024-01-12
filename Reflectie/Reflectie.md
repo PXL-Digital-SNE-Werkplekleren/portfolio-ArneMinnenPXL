@@ -51,15 +51,15 @@ Zeker ook mijn stages kan ik gebruiken door deze heel goed uit te voeren en dan 
 
 ## Reflectie X-factor
 
-Wat is jouw passie? Hoe houdt dit verband met de opleiding die je bent aangevat? 
+#### Wat is jouw passie? Hoe houdt dit verband met de opleiding die je bent aangevat? 
 
 Ik heb altijd een passie gehad voor IT zelfs van kind af aan was ik al bezig met computers om te bouwen dus om nu de stap te kunnen maken naar een job in de IT is zeker een positieve zaak.
 
-Wat geeft jou energie en goesting? En hoe zie je dit in je opleiding die je bent aangevat? 
+##### Wat geeft jou energie en goesting? En hoe zie je dit in je opleiding die je bent aangevat? 
 
 Ik vind het heel leuk om in een CLI te werken en ik ben zo gefascineerd door Netwerkbeheer dat ik hiervoor met plezier naar school kom.
 
-Hoe zie je jezelf in dialoog gaan met anderen in de opleiding die je bent aangevat? 
+#### Hoe zie je jezelf in dialoog gaan met anderen in de opleiding die je bent aangevat? 
 
 Ik zou altijd proberen respect te tonen naar andere mensen hun mening en het te bespreken.
 
