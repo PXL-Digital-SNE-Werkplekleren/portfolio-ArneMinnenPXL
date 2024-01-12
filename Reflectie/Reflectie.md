@@ -89,7 +89,7 @@ Ik zou dit niet kunnen omdat ik VDAB student ben en wij mogen dit niet.
 
 Programmeren,netwerkbeheer,etische hackers,security en helpdesk om er maar een paar te noemen.
 
-Hoe ziet je X-factor er op dit moment al uit? Welke ervaringen heb je al?
+#### Hoe ziet je X-factor er op dit moment al uit? Welke ervaringen heb je al?
 
 Ik hou van IT en ben hier zelf thuis ook veel mee bezig; zo heb ik al zelf routers geconfigureerd of mijn vrienden geholpen met internet problemen.
 
@@ -120,7 +120,6 @@ Het heeft me veel bijgebracht zoals plannen en goed reflectere. Maar ook bij de 
 
 
 #### Wat hoop je in WPL2 te leren en ontdekken? Wat zijn je voornemens?
-
 
 Ik hoop meer inzicht te krijgen over hoe het gaat zijn op de werkvloer maar ik ben er zeker van dat dit zal gebeuren op de Corda Campus.
 
