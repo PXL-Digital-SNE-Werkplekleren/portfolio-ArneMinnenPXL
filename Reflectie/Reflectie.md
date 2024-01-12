@@ -1,7 +1,9 @@
 # Reflectie
 
 ## Reflectie WPL 1
-in WPL1 heb ik twee reflectie's gemaakt:
+
+
+## in WPL1 heb ik twee reflectie's gemaakt:
 
 [Minnen_Arne_reflectie.pdf](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-ArneMinnenPXL/files/13259556/Minnen_Arne_reflectie.pdf)
 
@@ -11,6 +13,7 @@ Hier had ik het moeilijk mee omdat ik bepaalde doelstellingen niet kon halen en 
 Mijn tweede reflectie ging over mijn telefoon naar PXL, nadat er niemand mij kon helpen en de doorverwezen persoon afwezig was begon ik mij er in te ergeren omdat ik het belangrijk vond dat mijn inschrijving in orde was. Hierdoor ervaarde ik veel stress en was ik geergerd aan de telefoon.
 
 Ik ben vooral trots op het resultaat van mijn reflectie opdracht omdat ik dit eerst toch heel moeilijk vond maar na de juiste methode te volgen ging dit veel gemakkelijker.
+
 
 ## Slotevaluatie:
 
@@ -60,6 +63,7 @@ Hoe zie je jezelf in dialoog gaan met anderen in de opleiding die je bent aangev
 
 Ik zou altijd proberen respect te tonen naar andere mensen hun mening en het te bespreken.
 
+
 #### Wat versta jij onder een ken-doementaliteit (ondernemend zijn in de brede zin van het woord) en hoe zie je dat in de opleiding die je bent aangevat?
 
 Dat als je enkel kennis van iets hebt maar het niet kan toepassen is dat niet genoeg. Het is bijvoorbeeld niet dat als jij een netwerk moet opstellen dat je dit ook gaat doen. Je moet effectief de stappen nemen om het uit te voeren.
@@ -70,13 +74,13 @@ Dat als je enkel kennis van iets hebt maar het niet kan toepassen is dat niet ge
 Ik vind het persoonlijk beter om eerst een beperkte theorie te krijgen en zo dan verder te gaan naar leren maar ik ben geen fan van eerst alles leren en dan pas het in de praktijk te gebruiken.
 Dit vind ik zeer onleerrijk.
 
+
 #### Hoe ziet jouw netwerk er op dit moment uit? Kan je dit netwerk inzetten in functie van de opleiding die je hebt aangevat?
 
 Ik heb een aantal vrienden die in de IT werken: Programmeur, netwerkbeheerder en dit komt heel goed uit want ik kan altijd naar hun gaan voor advies.
 
 
 #### Hoe zou jij internationaal samen kunnen werken in de opleiding die je hebt aangevat?
-
 
 Ik zou dit niet kunnen omdat ik VDAB student ben en wij mogen dit niet.
 
@@ -94,9 +98,11 @@ Ik hou van IT en ben hier zelf thuis ook veel mee bezig; zo heb ik al zelf route
 
 IT dus dit spreekt voor zich omdat het mijn passie is.
 
+
 #### Hoe zou jij je X-factor verder kunnen ontwikkelen?
 
 Mijn uitstelgedrag is zeker mijn grootste probleem en ik probeer hier aan te werken zeker bij de vakken die je rap laat liggen omdat ze 'minder' belangrijk zijn.
+
 
 #### Wat weet je al over de soort van job die je later wil uitoefenen?
 
@@ -105,16 +111,12 @@ Op dit moment zou ik erg graag beginnen als Systeem en Netwerkbeheerder, ik vind
 
 #### Waarover zou je nog wel een gastseminarie willen tijdens WPL2?
 
-
 Ik zou graag nog gastseminaries krijgen over mensen die ook in de IT werken maar dan voornamelijk andere afdelingen zodat ik daar ook wat meer van leer. (cybersecurity,cloud,etc)
-
 
 
 #### Welk inzicht heeft WPL1 jou gebracht?
 
-
 Het heeft me veel bijgebracht zoals plannen en goed reflectere. Maar ook bij de gastseminarie van carglass vond ik het heel motiveerde om te horen hoe deze persoon grote problemen kon oplossen door zijn best te doen.
-
 
 
 #### Wat hoop je in WPL2 te leren en ontdekken? Wat zijn je voornemens?
