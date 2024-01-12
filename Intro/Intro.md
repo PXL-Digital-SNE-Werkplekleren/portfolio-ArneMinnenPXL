@@ -22,6 +22,11 @@ vrijwilligerswerk: geen ervaring
 hobby: Kickboksen, met de hond wandelen, gamen
 
 
+
+![image](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-ArneMinnenPXL/assets/148560595/69bf2072-050a-4749-86dd-514b567cc646)
+
+
+
 CV
 
 
