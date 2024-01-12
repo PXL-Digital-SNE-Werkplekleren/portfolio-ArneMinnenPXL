@@ -3,17 +3,17 @@
 ## Opdrachten WPL 1
 
 
-Reflectieopdracht - 2 reflectie's uitvoeren: 1 volgens cyclisch reflectiemodel van kolb en een volgens de Starr methode.
+#### Reflectieopdracht - 2 reflectie's uitvoeren: 1 volgens cyclisch reflectiemodel van kolb en een volgens de Starr methode.
 
-Opdracht planning - planning over 2 weken tijd maken. 
+#### Opdracht planning - planning over 2 weken tijd maken. 
 
-Opdracht actualiteit - Groepswerk waarbij we keken naar welke impact AI kan hebben op ons beroep en de IT sector in het algemeen.
+#### Opdracht actualiteit - Groepswerk waarbij we keken naar welke impact AI kan hebben op ons beroep en de IT sector in het algemeen.
 
-Opdracht netwerken - Een simpele switch config maken zoals we geleerd hebben bij netwerken.
+#### Opdracht netwerken - Een simpele switch config maken zoals we geleerd hebben bij netwerken.
 
-Opdracht Power app ORL - een app maken waarin je bepaalde dingen kan selecteren, wijzigen etc...
+#### Opdracht Power app ORL - een app maken waarin je bepaalde dingen kan selecteren, wijzigen etc...
 
-Opdracht Carriere kompas - Zoeken naar je talenten en vacatures bekijken die mij interesseren.
+#### Opdracht Carriere kompas - Zoeken naar je talenten en vacatures bekijken die mij interesseren.
 
 
 ## Mijn favoriete opdrachten:
