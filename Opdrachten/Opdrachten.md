@@ -18,7 +18,7 @@
 
 ## Mijn favoriete opdrachten:
 
-### Opdracht mijn loopbaan
+### Opdracht carrière kompas
 
 Ik heb deze gekozen omdat als ik deze opdracht maak, ik kan zien wat de job allemaal inhoudt en wat de voor en nadelen zijn en dat is toch heel belangrijk.
 
