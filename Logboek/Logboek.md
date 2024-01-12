@@ -8,7 +8,7 @@ Hiervoor hebben we opdrachten gedaan om het werkveld te verkenning, stilgestaan 
 ## Logboek WPL 1
 
 
-![image](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-ArneMinnenPXL/assets/148560595/e7d773b6-d340-4444-8f00-75cbf24ba1e0)
+![image](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-ArneMinnenPXL/assets/148560595/26a240a1-1079-4c6d-bee1-3a442495b7b0)
 
 
 ## Logboek WPL 2
