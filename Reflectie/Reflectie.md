@@ -125,7 +125,6 @@ Ik hoop meer inzicht te krijgen over hoe het gaat zijn op de werkvloer maar ik b
 
 
 
-
 ## Reflectie WPL 2
 
 ## Reflectie WPL 3
