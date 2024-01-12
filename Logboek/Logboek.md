@@ -14,7 +14,7 @@ Hiervoor hebben we opdrachten gedaan om het werkveld te verkenning, stilgestaan 
 
 
 
-## Het doel van WPL1 was oriëntering en kennismaken met het werkveld
+### Het doel van WPL1 was oriëntering en kennismaken met het werkveld
 
 ![image](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-ArneMinnenPXL/assets/148560595/655dc4de-f514-46ea-b4ba-714b04696ce7)
 
