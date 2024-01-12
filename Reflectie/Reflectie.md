@@ -48,6 +48,28 @@ Zeker ook mijn stages kan ik gebruiken door deze heel goed uit te voeren en dan 
 
 Reflectie X-factor
 
+Wat is jouw passie? Hoe houdt dit verband met de opleiding die je bent aangevat? 
+
+Wat geeft jou energie en goesting? En hoe zie je dit in je opleiding die je bent aangevat? 
+
+Hoe zie je jezelf in dialoog gaan met anderen in de opleiding die je bent aangevat? 
+
+Wat versta jij onder een ken-doementaliteit (ondernemend zijn in de brede zin van het woord) en hoe zie je dat in de opleiding die je bent aangevat?
+
+Hoe ver sta jij op dit moment al in een ken-doementaliteit?
+
+Hoe ziet jouw netwerk er op dit moment uit? Kan je dit netwerk inzetten in functie van de opleiding die je hebt aangevat?
+
+Hoe zou jij internationaal samen kunnen werken in de opleiding die je hebt aangevat?
+Met welke andere disciplines (opleidingen / beroepen / ...) zou jij in aanraking kunnen komen in je opleiding?
+
+Hoe ziet je X-factor er op dit moment al uit? Welke ervaringen heb je al?
+
+
+Hoe zou je je X-factor kunnen vertalen naar de opleiding waarvoor je gekozen hebt?
+
+
+Hoe zou jij je X-factor verder kunnen ontwikkelen?
 
 
 Wat weet je al over de soort van job die je later wil uitoefenen?
