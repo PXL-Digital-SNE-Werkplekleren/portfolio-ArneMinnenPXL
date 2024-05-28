@@ -36,6 +36,40 @@ Communicatie en ik heb dit gebruikt door goed samen te werken in groepsopdrachte
 
 ## Opdrachten WPL 2
 
+### Sprint 2 opdrachten:
+
+#### Handleiding Windows 11 Desktop virtual machine met vsphere
+
+Deze opdracht ging erg goed tot ik aan het sysprep gedeelte kwam, ik bleef hier problemen ervaren met het verwijderen van bestanden. Ik gebruikte de juiste commando's in powershell hiervoor maar het bleek dat ik sommige individueel moest verwijderen omdat ze anders achter bleven.
+
+#### Handleiding Fail2ban
+
+#### Handleiding Passwordless SSH connectie naar de firewall
+
+
+### Sprint 3 opdrachten:
+
+#### Secondary Domain Controller
+
+#### Pi-hole
+
+### Sprint 4 opdrachten:
+
+#### Publieke website - Linux Server
+
+#### Website SSL/TLS beveiliging
+
+#### DNS Adres instellen voor de Oracle Webserver.
+
+### Sprint 5 opdrachten:
+
+#### Monitoring Tools
+
+#### Monitoring vanaf Windows Domain Controller naar Linux (SSH)
+
+
+
+
 ## Opdrachten WPL 3
 
 
