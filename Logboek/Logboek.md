@@ -21,6 +21,9 @@ Hiervoor hebben we opdrachten gedaan om het werkveld te verkenning, stilgestaan 
 
 ## Logboek WPL 2
 
+Zie opdrachten en reflectie
+
+
 ## Logboek WPL 3
 
 ## Logboek WPL4
