@@ -36,6 +36,25 @@ Communicatie en ik heb dit gebruikt door goed samen te werken in groepsopdrachte
 
 ## Opdrachten WPL 2
 
+### Samenvatting technische opdrachten WPL 2
+
+We hebben dus ons project gemaakt in 4 sprints, de eerste sprint was een simpele start.
+Hierin heb ik een Windows desktop installatie gedaan en dit word dan de basis voor alle Windows Computers.
+Ik doe een systeemvoorbereiding(sysprep) en toen heb ik hier een template van gemaakt.
+Hierna heb ik een passwordless SSH connectie gemaakt voor de ICT medewerkers zodat zei van overal het netwerk kunnen besturen.
+Als laatste heb ik ook een Fail2Ban installatie gedaan (dit zorgt voor inbraakpreventie)
+Nu gaan we over naar sprint 3 waar ik Pi-hole heb gebruikt om bepaalde sites te blokkeren onder andere porno gamen en gokken.
+Daarna heb ik nog de Secondary Domain Controller gemaakt in Command Line Interface.
+In sprint 4 heb ik de school voorzien van een publieke website en dit met Linux Oracle.
+Die website heb ik natuurlijk ook beveiligd en ik heb er namelijk ook een DNS adres voor ingesteld.
+In onze laatste sprint heb ik voor een monitoring tool gezorgd via PRTG, hierdoor kunnen we nu vanaf onze hoofdserver alles beheren en gemakkelijk ingrijpen met problemen.
+Dit was mijn samenvatting voor de technische opdrachten van WPL 2, alvast bedankt.
+
+
+
+
+[WPL2_T16_Eindpresentatiepwppdf.pdf](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-ArneMinnenPXL/files/15503524/WPL2_T16_Eindpresentatiepwppdf.pdf)
+
 
 
 
