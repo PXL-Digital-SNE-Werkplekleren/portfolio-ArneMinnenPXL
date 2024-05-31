@@ -127,6 +127,22 @@ Ik hoop meer inzicht te krijgen over hoe het gaat zijn op de werkvloer maar ik b
 
 ## Reflectie WPL 2
 
+### Reflectie groepsproject WPL2
+
+Ik heb dus in WPL2 een groepsproject gemaakt met 4 en dit allemaal rond netwerken,beveiliging, schoolinfrastructuur.
+In de eerste sprint ben ik begonnen met het installeren van de Windows Desktop voor al onze leerlingen,directie,etc...
+Ik vond dit erg moeilijk toen ik een systeemvoorbereiding ging doen omdat dit na veel proberen niet lukte toen heb ik advies aan de leerkracht gevraagd maar die kon mij hier ook niet mee helpen, ik ben dan na blijven proberen toch tot een oplossing gekomen. Hierna heb ik nog een fail2ban beveiliging ingesteld en een passwordless SSH gemaakt. Dit ging vrij goed.
+In sprint 3 heb ik samen met Yunus een Domain Controller gemaakt, hier hebben we veel uit geleerd. Zo gingen we vaak voor advies naar de Powershell discord waar echte experts ons goed konden helpen maar ze waren toch ook zo verstandig om het niet gewoon voor te zeggen waardoor dit een leerijke ervaring was. Daarna heb ik Pi-Hole gemaakt dit deels met hulp van Fabiano maar heb het zelf wel moeten configureren. In sprint 4 heb ik aan de Publieke Website gewerkt, dit deels in groep maar vooral alleen. Deze taak lukte goed dankzij een goed geconfigureerde Website template die we al hadden. De Cisco opdracht ging heel slecht door gebrek aan samenwerking binnen ons team waardoor we hier heel slecht op hebben gehaald.
+In sprint 5 heb ik de Monitoring Tools alleen in orde gemaakt. Dit was ook niet gemakkelijk maar na extra veel configuratie handleidingen te volgen is dit toch gelukt. Onze team samenwerking liep niet goed om eerlijk te zijn het ging wel beter naar het einde toe. Ik had vaak het gevoel dat er slecht of niet gecommuniceerd werd. Er moesten altijd mensen gemute worden op teams omdat ze dat zelf niet deden wanneer er extern lawaai was. Ook waren er veel momenten dat zaken op iemand zijn manier moesten gebeuren en als we dan akkoord gingen dan waren er achteraf problemen mee. Zo hebben we miss 1/4 van al onze tijd problemen met het internet moeten oplossen. 
+Technische skills die ik in dit project echt geleerd heb zijn: Netwerk monitoren, Specifieke sites blokkeren, Systeemvoorbereiding.
+De soft skills waarin ik beter ben geworden zijn zeker Flexibiliteit in de zin dat ik vaak extra mijn best moest doen of langer aan een taak werken, etc. Kritisch denken was ook zeer belangrijk bij het troubleshooten van problemen.
+Samenwerking was in het begin heel slecht maar het de tijd begonnen mensen toch meer en meer hun best hiervoor te doen had ik de indruk zo werden de daily standups ook beter maar ik had wel het gevoel dat ik vaak het stuur in eigen handen moest nemen.
+Plannen zodat je niet de laatste dag alles moest doen maar rustig verspreid over tijd, dit vind ik erg belangrijk maar was vaak een probleem binnen het team.
+
+
+
+
+
 ## Reflectie WPL 3
 
 ## Reflectie WPL 4
