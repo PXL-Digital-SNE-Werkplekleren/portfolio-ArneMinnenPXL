@@ -25,5 +25,11 @@ Zie opdrachten en reflectie
 
 
 ## Logboek WPL 3
+Mijn dagelijkse activiteiten en voortgang zijn vastgelegd in mijn logboek. Je kunt dit logboek hier raadplegen.
+
+[Logboek_ArneMinnen2SNEB.pdf](https://github.com/user-attachments/files/18557726/Logboek_ArneMinnen2SNEB.pdf)
+
+
+
 
 ## Logboek WPL4
