@@ -145,4 +145,31 @@ Plannen zodat je niet de laatste dag alles moest doen maar rustig verspreid over
 
 ## Reflectie WPL 3
 
+#Positieve punten
+
+Ik heb leren werken met Baracuda en dit is een programma voor Netwerkbeveiliging, ik heb hier persoonlijke training in gekregen van mijn stagebegeleider en ik kijk ernaar uit om hier zelfstandig mee te werken in WPL4.
+Ik heb veel geleerd over troubleshooten en dan vooral in de context van ondersteunende helpdesk medewerker.
+In verband met systemen heb ik ook veel geleerd door Laptops te Stagen en voorbereiden om uit te rollen aan medewerkers.
+
+
+#Samenwerking
+
+Ik heb geprobeert om zoveel mogelijk input te geven tijdens team meetings.
+Advies gekregen van mijn collega's en stagebegeleider en dit ook als reflectie te gebruiken om zo naar de toekomst toe betere resultaten te verkrijgen.
+Soms waren er ook collega's van andere afdelingen waar het IT team minder goede relaties mee had maar ik heb persoonlijk altijd gekozen om mij neutraal op te stellen en iedereen met een positieve attitude te behandelen.
+
+
+#Uitdagingen
+
+Ik moet mezelf meer bijwerken in verband met ontwikkelingen in de IT wereld.
+Documentatie goed opvolgen bij alle stappen zodat ik goed weet wat ik gedaan heb.
+Beter worden in het zelfstandig gebruiken van de organisatie hun specifieke programma's
+
+#Vooruitblik
+
+Ik kijk uit naar de verdere samenwerking en zelfstandig meer taken te krijgen.
+Ik heb al een idee voor mijn eindwerk en ik denk dat dit een erg leuke taak gaat worden. Het zal niet gemakkelijk zijn maar het is een uitdaging die ik graag op mij neem.
+
+
+
 ## Reflectie WPL 4
