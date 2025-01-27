@@ -62,11 +62,13 @@ Dit was mijn samenvatting voor de technische opdrachten van WPL 2, alvast bedank
 
 ## Opdrachten WPL 3
 
-[ProbleemsituatieWPL3KlasMinnenArne.pdf](https://github.com/user-attachments/files/18557445/ProbleemsituatieWPL3KlasMinnenArne.pdf)
+
 
 [Minnen_Arne_WPL3_Pitch.odp](https://github.com/user-attachments/files/18557465/Minnen_Arne_WPL3_Pitch.odp)
 
 [WPL3-SNE-Intervisie_Leerdoelen Werkkwaliteiten_MinnenArne.pdf](https://github.com/user-attachments/files/18557506/WPL3-SNE-Intervisie_Leerdoelen.Werkkwaliteiten_MinnenArne.pdf)
+
+[Probleemsituatie2SNEBMinnenArne_Naverwerking.pdf](https://github.com/user-attachments/files/18557582/Probleemsituatie2SNEBMinnenArne_Naverwerking.pdf)
 
 
 ## Opdrachten WPL 4
