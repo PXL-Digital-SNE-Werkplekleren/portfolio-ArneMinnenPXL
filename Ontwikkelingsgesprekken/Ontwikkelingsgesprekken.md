@@ -66,15 +66,18 @@ De controle loslaten en dit is dan vooral bijvoorbeeld bij een groepswerk waar i
 
 Zie opdrachten en reflectie
 
-[GR DT Werkkwaliteiten.pdf](https://github.com/user-attachments/files/18557679/GR.DT.Werkkwaliteiten.pdf)
-
-[WPL3-SNE-intervisie_Leerdoelen Werkprestaties.pdf](https://github.com/user-attachments/files/18557696/WPL3-SNE-intervisie_Leerdoelen.Werkprestaties.pdf)
 
 ## Overzicht ontwikkelingsgesprekken WPL 2
 
 ## Overzicht ontwikkelingsgesprekken WPL 3
 
 
+Zie opdrachten en reflectie
+
+
+[GR DT Werkkwaliteiten.pdf](https://github.com/user-attachments/files/18557679/GR.DT.Werkkwaliteiten.pdf)
+
+[WPL3-SNE-intervisie_Leerdoelen Werkprestaties.pdf](https://github.com/user-attachments/files/18557696/WPL3-SNE-intervisie_Leerdoelen.Werkprestaties.pdf)
 
 
 ## Overzicht ontwikkelingsgesprekken WPL 4
