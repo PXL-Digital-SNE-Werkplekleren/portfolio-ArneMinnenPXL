@@ -71,6 +71,20 @@ Zie opdrachten en reflectie
 
 ## Overzicht ontwikkelingsgesprekken WPL 3
 
+Tijdens mijn werkplekleren ben ik zowel technisch als persoonlijk sterk gegroeid.
+Op technisch vlak heb ik veel bijgeleerd over netwerken, het beheren van servers, domeinen, en tools zoals Active Directory, PowerShell en Exchange.
+Dingen die ik in de les zag, kon ik nu echt toepassen in een werkomgeving, en dat gaf me veel meer vertrouwen.
+Ik leerde ook hoe ik problemen moet analyseren en zelfstandig oplossingen zoeken, wat me trots maakte op mijn eigen vooruitgang.
+
+Op persoonlijk vlak ben ik gegroeid in mijn communicatie met collega’s en gebruikers. 
+In het begin vond ik het soms spannend om iemand te helpen of technische uitleg te geven, maar gaandeweg voelde ik mij daar steeds comfortabeler in. 
+Ik kreeg van mijn stagebegeleider te horen dat ik zelfstandig werk, initiatief neem en gestructureerd te werk ga.
+Die positieve feedback motiveerde me echt. 
+Het gaf mij het gevoel dat ik niet gewoon "stagiair" was, maar echt iets betekende binnen het team.
+[WPL4-FG-werkkwaliteiten_MinnenArne.pdf](https://github.com/user-attachments/files/20542569/GR.DT.Werkkwaliteiten.aangepast.pdf)
+
+
+
 
 Zie opdrachten en reflectie
 
