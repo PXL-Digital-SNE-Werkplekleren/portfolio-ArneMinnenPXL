@@ -72,3 +72,10 @@ Dit was mijn samenvatting voor de technische opdrachten van WPL 2, alvast bedank
 
 
 ## Opdrachten WPL 4
+
+[WPL_Intervisie_opdracht_2025-03MinnenArne.pdf](https://github.com/user-attachments/files/20542613/WPL_Intervisie_opdracht_2025-03MinnenArne.pdf)
+[WPL_Eindreflectie_MinnenArne.pdf](https://github.com/user-attachments/files/20542612/WPL_Eindreflectie_MinnenArne.pdf)
+
+
+
+
