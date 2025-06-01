@@ -182,3 +182,13 @@ Ik heb al een idee voor mijn eindwerk en ik denk dat dit een erg leuke taak gaat
 
 
 ## Reflectie WPL 4
+
+Eindreflectie WPL4
+
+Als ik terugkijk op de afgelopen periode van werkplekleren, merk ik dat ik in korte tijd enorm ben gegroeid, zowel technisch als persoonlijk. In het begin had ik nog wat twijfels, maar al snel ontdekte ik dat ik meer in mijn mars had dan ik zelf dacht.
+
+Op technisch vlak heb ik veel geleerd. Dingen die ik in de les had gezien, kon ik nu echt toepassen in een professionele omgeving. Ik werkte met Windows Server, Active Directory, Exchange en PowerShell. Wat me vooral is bijgebleven, is hoe ik stap voor stap meer verantwoordelijkheid kreeg. Van het klaarmaken van toestellen, het oplossen van helpdesktickets tot het meewerken aan grotere projecten zoals een domeinnaamswijziging. Het gaf me vertrouwen om zelfstandig te werken en zelf beslissingen te durven nemen.
+
+Ook op persoonlijk vlak merkte ik dat ik groeide. Ik leerde beter communiceren, om hulp vragen als ik vastzat, maar ook uitleg geven aan collega’s of gebruikers. In het begin voelde dat soms nog spannend, maar na verloop van tijd ging het steeds natuurlijker. Mijn stagebegeleider gaf aan dat hij tevreden was over mijn aanpak en vond dat ik gestructureerd en zelfstandig te werk ging. Die erkenning deed me echt goed.
+
+Wat ik vooral meeneem uit deze stage, is het besef dat ik klaar ben voor het werkveld. Niet omdat ik alles al weet – dat is nooit zo – maar omdat ik geleerd heb hoe ik dingen moet aanpakken, hoe ik kan blijven bijleren en met zelfvertrouwen mijn plek kan vinden binnen een IT-team.
