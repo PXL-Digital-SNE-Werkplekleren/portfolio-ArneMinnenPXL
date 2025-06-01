@@ -33,3 +33,15 @@ Mijn dagelijkse activiteiten en voortgang zijn vastgelegd in mijn logboek. Je ku
 
 
 ## Logboek WPL4
+
+
+Tijdens mijn werkplekleren heb ik meegewerkt aan uiteenlopende IT-taken binnen Sint-Annendael. 
+Ik ondersteunde actief de helpdesk, waarbij ik gebruikers hielp met hardware-, netwerk- en softwareproblemen, zowel via remote desktop als ter plaatse.
+Ik voerde installatie en configuratie uit van toestellen, servers, printers en netwerkinfrastructuur, en beheerde accounts binnen Active Directory en Microsoft 365.
+Daarnaast hielp ik bij het patchen van netwerkkabels, het aanmaken van groepspolicies en het monitoren van antivirus- en diskspace-waarschuwingen.
+Ook werkte ik met Windows 10 en 11, en ondersteunde ik de migratie van toestellen en software. 
+Door regelmatige teammeetings en feedbackmomenten ontwikkelde ik mijn technische én communicatieve vaardigheden. 
+Deze stage gaf mij een realistischer beeld van het IT-werkveld en leerde mij oplossingsgericht te werken in een professionele zorgomgeving.
+
+[logboek.pdf](https://github.com/user-attachments/files/20542510/logboek.pdf)
+
